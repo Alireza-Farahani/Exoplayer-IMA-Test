@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">ExoTest</string>
+    <string name="media_url_mp4" translatable="false">https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_480_1_5MG.mp4</string>
+    <string name="ad_tag_url" translatable="false"><![CDATA[
+        https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/single_ad_samples&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dlinear&correlator=
+    ]]></string>
+    <string name="ad_deema_url" translatable="false"><![CDATA[
+        https://admin.deema.agency/?c=v&m=tag&app=1&placementId=1530&videotype=prerole&ua=okhttp&name=ExoPlayerTest&bundle=ir.shahbaz.SHZToolBox.debug&ifa=1605a8fe-b603-463f-8c72-bbe3ee193771
+    ]]></string>
+</resources>
